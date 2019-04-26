@@ -1,2 +1,2 @@
 this is my test file
-and now the file has been modifies
+and now the file has been modified
