@@ -1,0 +1,116 @@
+2019-04-18 14:23:31,523 - myProject -INFO -url launched
+2019-04-18 14:23:32,528 - myProject -INFO -username value entered
+2019-04-18 14:23:32,703 - myProject -INFO -password entered
+2019-04-18 14:23:37,939 - myProject -INFO -user clicked on Login button
+2019-04-18 14:23:37,953 - myProject -INFO -Login test passed
+2019-04-18 17:02:21,897 - myProject -INFO -url launched
+2019-04-18 17:02:24,856 - myProject -INFO -username value entered
+2019-04-18 17:02:25,107 - myProject -INFO -password entered
+2019-04-18 17:02:31,903 - myProject -INFO -user clicked on Login button
+2019-04-18 17:02:31,918 - myProject -INFO -Login test passed
+2019-04-18 19:25:42,515 - myProject -INFO -url launched
+2019-04-18 19:25:43,413 - myProject -INFO -username value entered
+2019-04-18 19:25:43,661 - myProject -INFO -password entered
+2019-04-18 19:26:16,545 - myProject -INFO -user clicked on Login button
+2019-04-18 19:26:16,567 - myProject -INFO -Login test passed
+2019-04-18 19:27:01,310 - myProject -INFO -url launched
+2019-04-18 19:27:59,973 - myProject -INFO -url launched
+2019-04-18 19:29:37,400 - myProject -INFO -url launched
+2019-04-18 19:34:34,033 - myProject -INFO -url launched
+2019-04-18 19:36:05,026 - myProject -INFO -url launched
+2019-04-18 19:59:22,321 - myProject -INFO -url launched
+2019-04-18 19:59:22,664 - myProject -INFO -username value entered
+2019-04-18 19:59:22,944 - myProject -INFO -password entered
+2019-04-18 19:59:25,961 - myProject -INFO -user clicked on Login button
+2019-04-18 19:59:25,969 - myProject -INFO -Login test passed
+2019-04-19 15:56:53,145 - myProject -INFO -url launched
+2019-04-19 15:56:55,575 - myProject -INFO -username value entered
+2019-04-19 15:56:55,724 - myProject -INFO -password entered
+2019-04-19 15:57:00,510 - myProject -INFO -user clicked on Login button
+2019-04-19 15:57:00,522 - myProject -INFO -Login test passed
+2019-04-22 09:43:46,316 - myProject -INFO -url launched
+2019-04-22 09:43:48,026 - myProject -INFO -username value entered
+2019-04-22 09:43:48,160 - myProject -INFO -password entered
+2019-04-22 09:43:50,707 - myProject -INFO -user clicked on Login button
+2019-04-22 09:49:00,977 - myProject -INFO -url launched
+2019-04-22 09:49:01,553 - myProject -INFO -username value entered
+2019-04-22 09:49:01,715 - myProject -INFO -password entered
+2019-04-22 09:49:06,039 - myProject -INFO -user clicked on Login button
+2019-04-22 17:02:50,777 - myProject -INFO -username entered
+2019-04-22 17:02:50,983 - myProject -INFO -password entered
+2019-04-22 17:02:56,652 - myProject -INFO -Login Passed
+2019-04-22 17:03:01,714 - myProject -INFO -username entered
+2019-04-22 17:03:01,827 - myProject -INFO -password entered
+2019-04-22 17:03:06,156 - myProject -INFO -username entered
+2019-04-22 17:03:06,284 - myProject -INFO -password entered
+2019-04-23 13:19:26,679 - myProject -INFO -Login details entered...
+2019-04-23 13:19:45,267 - myProject -INFO -Customer details entered...
+2019-04-23 13:21:24,113 - myProject -INFO -Login details entered...
+2019-04-23 13:21:39,121 - myProject -INFO -Customer details entered...
+2019-04-23 13:25:43,913 - myProject -INFO -Login details entered...
+2019-04-23 13:26:05,626 - myProject -INFO -Customer details entered...
+2019-04-23 13:26:40,281 - myProject -INFO -Login details entered...
+2019-04-23 13:26:55,839 - myProject -INFO -Customer details entered...
+2019-04-23 13:27:02,983 - myProject -INFO -Test case Passed...
+2019-04-23 13:28:32,428 - myProject -INFO -url launched
+2019-04-23 13:28:32,668 - myProject -INFO -username value entered
+2019-04-23 13:28:32,832 - myProject -INFO -password entered
+2019-04-23 13:28:53,888 - myProject -INFO -user clicked on Login button
+2019-04-23 13:28:53,912 - myProject -INFO -Login test passed
+2019-04-23 13:29:03,826 - myProject -INFO -username entered
+2019-04-23 13:29:03,940 - myProject -INFO -password entered
+2019-04-23 13:29:06,356 - myProject -INFO -Login Passed
+2019-04-23 13:29:09,119 - myProject -INFO -username entered
+2019-04-23 13:29:09,208 - myProject -INFO -password entered
+2019-04-23 13:29:11,999 - myProject -INFO -username entered
+2019-04-23 13:29:12,130 - myProject -INFO -password entered
+2019-04-23 13:29:23,195 - myProject -INFO -Login details entered...
+2019-04-23 13:29:34,728 - myProject -INFO -Customer details entered...
+2019-04-23 13:29:40,480 - myProject -INFO -Test case Passed...
+2019-04-23 14:43:00,818 - myProject -INFO -url launched
+2019-04-23 14:43:03,423 - myProject -INFO -username value entered
+2019-04-23 14:43:03,730 - myProject -INFO -password entered
+2019-04-23 14:43:09,327 - myProject -INFO -user clicked on Login button
+2019-04-23 14:43:09,342 - myProject -INFO -Login test passed
+2019-04-23 14:43:24,130 - myProject -INFO -Login details entered...
+2019-04-23 14:43:40,584 - myProject -INFO -Customer details entered...
+2019-04-23 14:43:53,718 - myProject -INFO -Test case Passed...
+2019-04-23 15:30:30,507 - myProject -INFO -url launched
+2019-04-23 15:30:33,690 - myProject -INFO -username value entered
+2019-04-23 15:30:33,829 - myProject -INFO -password entered
+2019-04-23 15:30:39,845 - myProject -INFO -user clicked on Login button
+2019-04-23 15:30:39,878 - myProject -INFO -Login test passed
+2019-04-23 15:30:54,211 - myProject -INFO -Login details entered...
+2019-04-23 15:31:09,261 - myProject -INFO -Customer details entered...
+2019-04-23 15:31:15,433 - myProject -INFO -Test case Passed...
+2019-04-23 15:36:55,165 - myProject -INFO -url launched
+2019-04-23 15:36:55,387 - myProject -INFO -username value entered
+2019-04-23 15:36:55,535 - myProject -INFO -password entered
+2019-04-23 15:36:58,417 - myProject -INFO -user clicked on Login button
+2019-04-23 15:36:58,436 - myProject -INFO -Login test passed
+2019-04-23 15:37:06,584 - myProject -INFO -Login details entered...
+2019-04-23 15:37:18,444 - myProject -INFO -Customer details entered...
+2019-04-23 15:37:23,670 - myProject -INFO -Test case Passed...
+2019-04-24 17:38:18,460 - myProject -INFO -url launched
+2019-04-24 17:38:19,152 - myProject -INFO -username value entered
+2019-04-24 17:38:19,893 - myProject -INFO -password entered
+2019-04-24 17:38:22,557 - myProject -INFO -user clicked on Login button
+2019-04-24 17:38:22,565 - myProject -INFO -Login test passed
+2019-04-24 17:38:39,098 - myProject -INFO -Login details entered...
+2019-04-24 17:38:53,840 - myProject -INFO -Customer details entered...
+2019-04-25 12:33:28,331 - myProject -INFO -url launched
+2019-04-25 12:33:30,696 - myProject -INFO -username value entered
+2019-04-25 12:33:30,938 - myProject -INFO -password entered
+2019-04-25 12:33:35,670 - myProject -INFO -user clicked on Login button
+2019-04-25 12:33:35,689 - myProject -INFO -Login test passed
+2019-04-25 12:33:48,158 - myProject -INFO -Login details entered...
+2019-04-25 12:34:03,847 - myProject -INFO -Customer details entered...
+2019-04-25 12:34:11,240 - myProject -INFO -Test case Passed...
+2019-04-25 19:36:09,721 - myProject -INFO -url launched
+2019-04-25 19:36:10,496 - myProject -INFO -username value entered
+2019-04-25 19:36:10,574 - myProject -INFO -password entered
+2019-04-25 19:36:13,600 - myProject -INFO -user clicked on Login button
+2019-04-25 19:36:13,612 - myProject -INFO -Login test passed
+2019-04-25 19:36:25,135 - myProject -INFO -Login details entered...
+2019-04-25 19:36:36,806 - myProject -INFO -Customer details entered...
+2019-04-25 19:36:42,166 - myProject -INFO -Test case Passed...

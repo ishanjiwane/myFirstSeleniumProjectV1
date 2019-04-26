@@ -1,0 +1,9 @@
+com\myFirstJavaProjectV1\testCases\TC_LoginTest_001.class
+com\myFirstJavaProjectV1\utilities\ReadConfig.class
+com\myFirstJavaProjectV1\pageObjects\LoginPage.class
+com\myFirstJavaProjectV1\pageObjects\AddNewCustomerPage.class
+com\myFirstJavaProjectV1\testCases\BaseClass.class
+com\myFirstJavaProjectV1\testCases\TC_LoginTestDataDriven_002.class
+com\myFirstJavaProjectV1\testCases\TC_AddNewCustomer_003.class
+com\myFirstJavaProjectV1\utilities\Reporting.class
+com\myFirstJavaProjectV1\utilities\XLUtils.class
